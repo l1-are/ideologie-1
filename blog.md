@@ -11,7 +11,7 @@ En raison des problèmes actuels, la communication entre les membres du groupe s
 La mise en ligne d'environ 1/3 du travail sera accessible d'ici la semaine 19.
 
 Bien cordialement,
-##### Auteur Parto Akhtarkhavari
+###### Auteur Parto Akhtarkhavari
 
 ### Semaine 19
 ### Semaine 
